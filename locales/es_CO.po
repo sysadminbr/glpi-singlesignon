@@ -525,7 +525,7 @@ msgid "Instagram"
 msgstr "Instagram"
 
 #: \src\Provider.php:586
-msgid "LinkdeIn"
+msgid "LinkedIn"
 msgstr "LinkedIn"
 
 #: \src\Provider.php:761

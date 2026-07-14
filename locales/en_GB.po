@@ -510,8 +510,8 @@ msgid "Instagram"
 msgstr "Instagram"
 
 #: \src\Provider.php:586
-msgid "LinkdeIn"
-msgstr "LinkdeIn"
+msgid "LinkedIn"
+msgstr "LinkedIn"
 
 #: \src\Provider.php:761
 msgid "SSO login may fail due to CSRF validation."

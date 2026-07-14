@@ -655,7 +655,7 @@ class Provider extends CommonDBTM
         $options['github'] = __('GitHub', 'singlesignon');
         $options['google'] = __('Google', 'singlesignon');
         $options['instagram'] = __('Instagram', 'singlesignon');
-        $options['linkedin'] = __('LinkdeIn', 'singlesignon');
+        $options['linkedin'] = __('LinkedIn', 'singlesignon');
 
         return $options;
     }
